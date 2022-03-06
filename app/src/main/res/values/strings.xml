@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="notations">
+        <item>Binary</item>
+        <item>Octanary</item>
+        <item>Hexadecimal</item>
+    </string-array>
+</resources>
